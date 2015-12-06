@@ -1,4 +1,4 @@
-package alfa.model;
+package apiclient.model;
 
 public class StateDescription {
 

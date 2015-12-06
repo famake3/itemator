@@ -1,4 +1,4 @@
-package alfa.model;
+package apiclient.model;
 
 import java.util.List;
 import java.util.Map;

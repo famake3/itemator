@@ -10,11 +10,11 @@ import javax.ws.rs.client.WebTarget;
 import javax.ws.rs.core.GenericType;
 import javax.ws.rs.core.MediaType;
 
-import alfa.model.Channel;
-import alfa.model.ChannelConfiguration;
-import alfa.model.Item;
-import alfa.model.Thing;
-import alfa.model.ThingType;
+import apiclient.model.Channel;
+import apiclient.model.ChannelConfiguration;
+import apiclient.model.Item;
+import apiclient.model.Thing;
+import apiclient.model.ThingType;
 
 
 public class openHABClient {
